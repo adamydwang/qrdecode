@@ -1,6 +1,6 @@
 ## Introduction
 
-- This project refered [zxing](https://github.com/zxing/zxing)
+- This project modified from [zxing](https://github.com/zxing/zxing)
 
 - This project provide qrcode decode http service docker image
 
